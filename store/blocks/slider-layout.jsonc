@@ -14,7 +14,8 @@
     "image#brand1": {
         "props": {
             "imageUrl": "https://appliancetheme.vteximg.com.br/arquivos/flatflat-brand-logo-square1.png",
-            "isFullModeStyle": true
+            "isFullModeStyle": true,
+            "max-width": "50%"
         }
     },
     "info-card#2": {
