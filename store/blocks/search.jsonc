@@ -23,8 +23,7 @@
     "pagination"
    ],
    "Props":{
-    "pagination": "show-more",
-    "preventRouteChange": true
+    "pagination": "show-more"
    }
  } 
 }
