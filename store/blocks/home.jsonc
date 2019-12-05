@@ -11,13 +11,6 @@
       "responsive-layout.mobile#mobile"
     ]
   },
-  "rich-text": {
-    "props": {
-      "text": "# Your Coffee, Your Way \n ### New Coffee Makers Collection",
-      "textPosition": "CENTER",
-      "textAlignment": "CENTER"
-    }
-  },
   "responsive-layout.desktop#desktop": {
     "children": [
       "rich-text#desktop"
