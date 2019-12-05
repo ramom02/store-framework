@@ -56,6 +56,13 @@
       "sku-selector",
       "product-quantity"
     ]
+  },
+  "sku-selector":{
+    "props":{
+      "InitialSelectionEnum": "empty",
+      "showVariationsErrorMessage":true,
+      "showVariationsLabels":true
+    }
   }
 
 }
