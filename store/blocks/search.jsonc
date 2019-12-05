@@ -18,7 +18,9 @@
     "search-fetch-previous",    
     "search-content",    
     "filter-navigator.v3",    
-    "search-fetch-more"
+    "search-fetch-more",
+    "preventRouteChange",
+    "pagination"
    ],
    "Props":{
     "pagination": "show-more",
