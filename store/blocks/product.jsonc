@@ -21,11 +21,12 @@
   "flex-layout.col#right": {
     "children": [
       "product-name",
+      "product-images",
       "product-price",
       "buy-button"
     ]
   },
-  "Product-image": {
+  "Product-images": {
     "verticalAlign":true,
     "preventVerticalStretch":true
   },
