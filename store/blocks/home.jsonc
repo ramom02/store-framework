@@ -1,19 +1,13 @@
 {
-  "store.home": { 
+  "store.home": {
     "blocks": [
-      {
-        "store.home": {
-          "blocks": [
-            "rich-text"
-          ]
-        },
-        "rich-text": {
-          "props": {
-            "text": "**Hello, World!**",
-            "textPosition": "CENTER"
-          }
-        }
-      }
+      "rich-text"
     ]
+  },
+  "rich-text": {
+    "props": {
+      "text": "**Hello, World!**",
+      "textPosition": "CENTER"
+    }
   }
 }
