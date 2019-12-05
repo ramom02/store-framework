@@ -24,13 +24,13 @@
       "product-images",
       "product-price",
       "buy-button"
-    ]
+    ],
+    "props":{
+      "verticalAlign":"middle",
+      "preventVerticalStretch":true
+  
+    }
   },
-  "Product-images": {
-    "verticalAlign":true,
-    "preventVerticalStretch":true
-  },
-
   "product-price": {
     "showSavings": true,
     "showListPrice": true
