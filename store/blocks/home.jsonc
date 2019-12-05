@@ -42,8 +42,8 @@
   },
   "flex-layout.row": {
     "children": [
-      "info-card",
-      "rich-text"
+      "image#electronics",
+      "image#major-appliance"
     ]
   },
   "image#electronics": {
