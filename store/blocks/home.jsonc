@@ -11,28 +11,9 @@
       "responsive-layout.mobile#mobile"
     ]
   },
-  "responsive-layout.desktop#desktop": {
-    "children": [
-      "rich-text#desktop"
-    ]
-  },
-  "responsive-layout.mobile#mobile": {
-    "children": [
-      "rich-text#mobile"
-    ]
-  },
-  "rich-text#desktop": {
+  "rich-text": {
     "props": {
-      "text": "# Your Coffee, Your Way \n ### New Coffee Makers Collection",
-      "textPosition": "CENTER",
-      "textAlignment": "CENTER"
-    }
-  },
-  "rich-text#mobile": {
-    "props": {
-      "text": "h3# Your Coffee, Your Way \n h4 ### New Coffee Makers Collection",
-      "textPosition": "CENTER",
-      "textAlignment": "CENTER"
+      "text": "Hello, World!"
     }
   },
   "info-card#button-right": {
@@ -94,6 +75,30 @@
     "props": {
       "src": "https://appliancetheme.vteximg.com.br/assets/vtex.file-manager-graphql/images/major_appliance_banner___bb10093866a127345ddfbcca3efa5022.png",
       "maxWidth": "100%"
+    }
+  },
+  "responsive-layout.desktop#desktop": {
+    "children": [
+      "rich-text#desktop"
+    ]
+  },
+  "responsive-layout.mobile#mobile": {
+    "children": [
+      "rich-text#mobile"
+    ]
+  },
+  "rich-text#desktop": {
+    "props": {
+      "text": "# Your Coffee, Your Way \n ### New Coffee Makers Collection",
+      "textPosition": "CENTER",
+      "textAlignment": "CENTER"
+    }
+  },
+  "rich-text#mobile": {
+    "props": {
+      "text": "h3# Your Coffee, Your Way \n h4 ### New Coffee Makers Collection",
+      "textPosition": "CENTER",
+      "textAlignment": "CENTER"
     }
   }
 }
