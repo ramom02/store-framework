@@ -20,7 +20,7 @@
     "filter-navigator.v3",    
     "search-fetch-more"
    ],
-   "Props":{
+   "props":{
     "pagination": "show-more",
     "preventRouteChange": true
    }
