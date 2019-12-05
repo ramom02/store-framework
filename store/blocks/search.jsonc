@@ -51,6 +51,11 @@
     "props":{
       "width":"80%"
     }
+  },
+  "search-content": {
+    "blocks": ["gallery", "not-found"]
+  },
+  "gallery": {
+    "blocks": ["product-summary.shelf"]
   }
-
 }
