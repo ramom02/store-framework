@@ -21,12 +21,15 @@
   "flex-layout.col#right": {
     "children": [
       "product-name",
-      "verticalAlign",
-      "preventVerticalStretch",
       "product-price",
       "buy-button"
     ]
   },
+  "Product-image": {
+    "verticalAlign":true,
+    "preventVerticalStretch":true
+  },
+
   "product-price": {
     "showSavings": true,
     "showListPrice": true
