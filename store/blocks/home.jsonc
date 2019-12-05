@@ -23,7 +23,7 @@
       "callToActionText": "Explore",
       "callToActionUrl": "/sale/d",
       "textAlignment": "center",
-      "blockClass":"Vintage"
+      "blockClass":"vintage"
     }
   },
   "info-card#button-left": {
