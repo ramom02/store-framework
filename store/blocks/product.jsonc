@@ -1,11 +1,11 @@
 {
   "store.product": {
-     "children": [
-       "flex-layout.row#main"
-     ]
-   },
-   "flex-layout.row#main": { 
-    "props": { 
+    "children": [
+      "flex-layout.row#main"
+    ]
+  },
+  "flex-layout.row#main": {
+    "props": {
       "marginTop": 6
     },
     "children": [
@@ -25,13 +25,15 @@
       "product-price",
       "buy-button"
     ],
-    "props":{
-      "verticalAlign":"middle",
-      "preventVerticalStretch":true
+    "props": {
+      "verticalAlign": "middle",
+      "preventVerticalStretch": true
     }
   },
   "product-price": {
-    "showSavings": true,
-    "showListPrice": true
+    "props": {
+      "showSavings": true,
+      "showListPrice": true
+    }
   }
- }
+}
