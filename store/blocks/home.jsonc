@@ -40,8 +40,8 @@
       "blockClass": "metal"
     }
   },
-  "flex-layout.row": {
-    "flex-layout.col":[
+  "flex-layout.col": {
+    "children": [
       "image#electronics",
       "image#major-appliance"
     ]
